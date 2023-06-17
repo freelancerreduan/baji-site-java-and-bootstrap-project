@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="14px" viewBox="0 0 16 14" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>icon-set/heart-2</title>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#FFED0C" offset="0%"></stop>
+            <stop stop-color="#E0AC27" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="icon-set-Web最新整理" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="images" transform="translate(-1537.000000, -371.000000)" fill="url(#linearGradient-1)">
+            <g id="icon-set/heart-2" transform="translate(1537.000000, 371.000000)">
+                <path d="M14.6275,1.43325 C12.7975,-0.47775 9.8305,-0.47775 8.0005,1.43325 C6.1695,-0.47775 3.2025,-0.47775 1.3725,1.43325 C-0.4575,3.34325 -0.4575,6.44125 1.3725,8.35125 C3.2025,10.26225 8.0005,14.00025 8.0005,14.00025 C8.0005,14.00025 12.7975,10.26225 14.6275,8.35125 C16.4575,6.44125 16.4575,3.34325 14.6275,1.43325" id="Fill-1"></path>
+            </g>
+        </g>
+    </g>
+</svg>

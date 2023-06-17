@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="100px" height="100px" viewBox="0 0 100 100" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>icon-set/icon-over</title>
+    <defs>
+        <linearGradient x1="84.9375%" y1="18.0859375%" x2="21.2304687%" y2="83.3476562%" id="linearGradient-1">
+            <stop stop-color="#DBCE9A" offset="0%"></stop>
+            <stop stop-color="#9E7C39" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="icon-set-Web最新整理" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="images" transform="translate(-761.000000, -38.000000)" fill="url(#linearGradient-1)">
+            <g id="icon-set/icon-over" transform="translate(761.000000, 38.000000)">
+                <path d="M50,0 C77.57,0 100,22.43 100,50 C100,77.57 77.57,100 50,100 C22.43,100 0,77.57 0,50 C0,22.43 22.43,0 50,0 Z M50,6 C25.738,6 6,25.738 6,50 C6,74.262 25.738,94 50,94 C74.262,94 94,74.262 94,50 C94,25.738 74.262,6 50,6 Z M73.0255,31.0254 C73.6115,30.4394 74.5605,30.4394 75.1465,31.0254 L75.1465,31.0254 L77.9745,33.8534 C78.5605,34.4394 78.5605,35.3884 77.9745,35.9744 L77.9745,35.9744 L40.5605,73.3884 C40.2675,73.6814 39.8835,73.8284 39.5005,73.8284 C39.1165,73.8284 38.7325,73.6814 38.4395,73.3884 L38.4395,73.3884 L19.0255,53.9744 C18.4395,53.3884 18.4395,52.4394 19.0255,51.8534 L19.0255,51.8534 L21.8535,49.0254 C22.4395,48.4394 23.3885,48.4394 23.9745,49.0254 L23.9745,49.0254 L39.5005,64.5504 Z" id="Combined-Shape"></path>
+            </g>
+        </g>
+    </g>
+</svg>

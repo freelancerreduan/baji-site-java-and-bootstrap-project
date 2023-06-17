@@ -1,0 +1,4 @@
+"undefined"==typeof NotifyHandler&&(NotifyHandler={});
+NotifyHandler=function(){var d=function(a,c,b,d,e){a={type:c,text:a,template:'<div class="noty_message"><span style="font-size: 12pt" class="noty_text"></span><div class="noty_close"></div></div>',timeout:3E3,buttons:!1};"undefined"!=typeof b&&$.extend(a,{timeout:b});"undefined"!=typeof e&&$.extend(a,{layout:e});d&&$.extend(a,{buttons:[{addClass:"btn btn-primary",text:I18N.get("ui.text.confirm"),onClick:function(a){a.close();d(!0)}},{addClass:"btn btn-danger",text:I18N.get("ui.text.cancel"),onClick:function(a){a.close();
+d(!1)}}]});noty(a)};return{create:function(a,c,b,f,e){d(a,c,b,f,e)},alertMsg:function(a,c,b){d(a,"alert",c,null,b)},successMsg:function(a,c,b){d(a,"success",c,null,b)},errorMsg:function(a,c,b){d(a,"error",c,null,b)},warningMsg:function(a,c,b){d(a,"warning",c,null,b)},infoMsg:function(a,c,b){d(a,"info",c,null,b)},confirmMsg:function(a,c,b,f){d(a,"info",c,b,f)}}}();
+

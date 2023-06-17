@@ -1,0 +1,4 @@
+"undefined"===typeof PageConfig&&(PageConfig={});PageConfig.sportInfo={};
+PageConfig.sportInfo.UGv3={desc1:"",desc2:"",playItems:[{title:"ui.text.sportInfo.itemBasketball",css:"itemBasketball"},{title:"ui.text.sportInfo.itemBoxing",css:"itemBoxing"},{title:"ui.text.sportInfo.itemFootball",css:"itemFootball"},{title:"ui.text.sportInfo.itemTennis",css:"itemTennis"},{title:"ui.text.sportInfo.itemVolleyball",css:"itemVolleyball"},{title:"ui.text.sportInfo.itemHockey",css:"itemHockey"},{title:"ui.text.sportInfo.itemTableTennis",css:"itemTableTennis"}]};
+PageConfig.sportInfo.Saba={desc1:"",desc2:""};PageConfig.sportInfo.UG={desc1:"",desc2:""};PageConfig.sportInfo.IMSB={desc1:"",desc2:""};PageConfig.sportInfo.WBET={desc1:"",desc2:""};PageConfig.sportInfo.WFT={desc1:"",desc2:""};PageConfig.sportInfo.SBO={desc1:"",desc2:""};PageConfig.sportInfo.AG={desc1:"",desc2:""};PageConfig.sportInfo.ICF={desc1:"",desc2:""};PageConfig.sportInfo.AWCMBC={desc1:"",desc2:""};
+
